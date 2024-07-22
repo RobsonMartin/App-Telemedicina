@@ -25,6 +25,11 @@ ___
 |2.0   |Inspeção dos requisitos| Gabriel, Luanny, Fran, Kaic e Rebeca | 03/07|
 |2.1   |Elaboração dos diagramas e modelo C4| Gabriel, Luanny, Fran, Kaic e Rebeca| 16/07|
 |2.2   |Criação das issues no GitHub|Luanny, Fran| 16/07|
+|2.2   |Desenvolvimento do protótipo|Luanny, Gabriel| 19/07|
+|2.2   |Mapeamento dos requisitos do backlog|Fran| 20/07|
+|2.2   |Criação do manaual do usuaáio|Kaic| 20/07|
+|2.2   |Testes de usabilidade|Luanny, Gabriel| 20/07|
+|2.2   |Conclusão do projeto|Luanny, Fran, Gabrie, Kaic e Rebeca| 21/07|
 ___
 
 ## ÍNDICE
