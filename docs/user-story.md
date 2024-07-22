@@ -43,6 +43,3 @@
 
 **Gerenciamento de Perfil do Paciente**
    - **H14**: Como paciente, eu quero gerenciar meu perfil e informações de contato para mantê-las atualizadas.
-
-**Acesso a Informações de Saúde Pública**
-   - **H15**: Como paciente, eu quero acessar informações de saúde pública relevantes para ficar bem informado.
