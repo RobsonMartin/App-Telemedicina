@@ -5,7 +5,6 @@ ___
 |-----------------|-------------------|
 | Versão:         | 2.2               |
 | Status:         |Em andamento       |
-|Executor Principal:| Gabriel Batista |
 |Coordenador do Projeto:| Andrey Rodrigues|
 
 
