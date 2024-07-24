@@ -1,5 +1,5 @@
 
-# Relatório de Inspeção
+# Heuristicas de Usabilidade
 
 | Tabela Heurísticas |  |
 |--------------------|--|
