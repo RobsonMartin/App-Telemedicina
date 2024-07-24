@@ -2,7 +2,7 @@
 
 | Tela |	Heurísticas Violadas | Descrição do problema | Severidade |
 |------|-----------------------|-----------------------|------------|
-| T1	 | H1 |	A tela não apresenta uma barra de carregamento ou nada do gênero que infrome o usuário sobre o que está acontecendo| 2 |
+| T1	 | H1 |	A tela não apresenta uma barra de carregamento ou nada do gênero que informe o usuário sobre o que está acontecendo| 2 |
 | T2	 | H9 |	A tela não mostra se a senha ou o email possuem requisitos obrigatórios como número mínimo de caracteres ou caracteres específicos| 3 |
 | T3	 | H9	| A tela não mostra se a senha ou o email possuem requisitos obrigatórios como número mínimo de caracteres ou caracteres específicos | 3 |
 | T4	 | H10 | A tela não apresenta um ícone de ajuda caso o usuário tenha dúvidas sobre o app | 3 |
