@@ -1,4 +1,4 @@
-# Heuristicas de Usabilidade
+# Relatória da Inspeção
 
 | Tela |	Heurísticas Violadas | Descrição do problema | Severidade |
 |------|-----------------------|-----------------------|------------|
