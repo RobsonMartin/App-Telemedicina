@@ -1,4 +1,4 @@
-# Documentação do Aplicativo de Marcação de Consultas e Telemedicina
+# Requisitos Funcionais e Não Funcionais
 ### H1: Marcação de Consultas Online  
 Como paciente, eu quero marcar consultas online para evitar deslocamentos desnecessários.  
 - Requisitos Funcionais:  
