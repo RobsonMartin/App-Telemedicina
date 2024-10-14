@@ -4,7 +4,7 @@ Como paciente, eu quero marcar consultas online para evitar deslocamentos desnec
 - Requisitos Funcionais:  
   1. O sistema deve permitir que os pacientes marquem consultas online.  
 - Requisitos Não Funcionais:  
-  1. O sistema deve ser intuitivo e fácil de usar, permitindo que os pacientes naveguem sem dificuldades.  
+  1.O sistema deve permitir que os pacientes naveguem sem dificuldades.
   2. O sistema deve responder rapidamente às ações dos usuários durante a marcação de consultas.  
 
 ### H2: Envio de Exames  
