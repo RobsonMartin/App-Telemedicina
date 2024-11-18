@@ -12,24 +12,24 @@ ___
 
 |Versão| Descrição | Autor | Data |
 |------|-----------|-------|------|
-|1.0   |Elaboração do Plano de Trabalho| Gabriel, Kaic, Luanny, Fran, Rebeca  | 26/05 |
-|1.1   |Introdução| Gabriel e Luanny | 26/05 |
-|1.2   |Informações Gerais| Luanny, Rebeca e Kaic | 27/05 |
-|1.3   |Escopo Geral| Fran Robson | 30/05 |
-|1.4   |Escopo Específico e Escopo Negativo| Rebeca e Kaic | 01/06 |
-|1.5   |Ambiente de Desenvolvimento| Fran Robson e Gabriel | 04/06 |
-|1.6   |Características Inovadoras| Gabriel, Kaic, Luanny, Fran e Rebeca | 04/06 |
-|1.7   |Implementação de GitHub| Fran Robson | 09/06 |
-|1.8   |Revisão Geral| Gabriel, Luanny, Fran, Kaic e Rebeca | 10/06 |
-|1.9   |Criamento de personas e user story|Gabriel, Luanny, Fran, Kaic e Rebeca| 17/06|
-|2.0   |Inspeção dos requisitos| Gabriel, Luanny, Fran, Kaic e Rebeca | 03/07|
-|2.1   |Elaboração dos diagramas e modelo C4| Gabriel, Luanny, Fran, Kaic e Rebeca| 16/07|
-|2.2   |Criação das issues no GitHub|Luanny, Fran| 16/07|
-|2.3   |Desenvolvimento do protótipo|Luanny, Gabriel| 19/07|
-|2.4   |Mapeamento dos requisitos do backlog|Fran| 20/07|
+|1.0   |Elaboração do Plano de Trabalho| Gabriel, Kaic, Luanna, Luiz Augusto, Karina, Luan  | 26/05 |
+|1.1   |Introdução| Gabriel e Luan | 26/05 |
+|1.2   |Informações Gerais| Luanna, Karina e Kaic | 27/05 |
+|1.3   |Escopo Geral| Luiz Augusto | 30/05 |
+|1.4   |Escopo Específico e Escopo Negativo| Karina e Kaic | 01/06 |
+|1.5   |Ambiente de Desenvolvimento| Luiz Augusto e Gabriel | 04/06 |
+|1.6   |Características Inovadoras| Gabriel, Kaic, Luan, Luiz e Karina | 04/06 |
+|1.7   |Implementação de GitHub| Luan e Luanna| 09/06 |
+|1.8   |Revisão Geral| Gabriel, Luan, Luiz, Kaic e Karina | 10/06 |
+|1.9   |Criamento de personas e user story|Gabriel, Luanna, Luiz, Kaic e Karina| 17/06|
+|2.0   |Inspeção dos requisitos| Gabriel, Luan, Karina, Kaic e Luiz | 03/07|
+|2.1   |Elaboração dos diagramas e modelo C4| Gabriel, Luanna, Luiz, Kaic e Karina| 16/07|
+|2.2   |Criação das issues no GitHub|Luanna, Luan| 16/07|
+|2.3   |Desenvolvimento do protótipo|Luan, Gabriel| 19/07|
+|2.4   |Mapeamento dos requisitos do backlog|Luiz| 20/07|
 |2.5   |Criação do manaual do usuaáio|Kaic| 20/07|
-|2.6   |Testes de usabilidade|Luanny, Gabriel| 20/07|
-|2.7   |Conclusão do projeto|Luanny, Fran, Gabrie, Kaic e Rebeca| 21/07|
+|2.6   |Testes de usabilidade|Luanna, Gabriel| 20/07|
+|2.7   |Conclusão do projeto|Luan, Luiz, Gabriel, Kaic e Karina| 21/07|
 ___
 
 ## ÍNDICE
