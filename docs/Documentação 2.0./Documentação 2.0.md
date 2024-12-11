@@ -27,57 +27,52 @@ O aplicativo de marcação de consultas e telemedicina foi desenvolvido com o ob
 - **Requisitos Funcionais:**
   - Suporte para upload de arquivos nos formatos PDF, JPG e PNG.
 
-### 3. Visualização de Prontuário
-- **Descrição:** Os pacientes podem visualizar seu prontuário online, acompanhando seu histórico médico.
-- **Requisitos Funcionais:**
-  - O sistema deve exibir histórico de consultas, diagnósticos e tratamentos.
-
-### 4. Fila de Atendimento
+### 3. Fila de Atendimento
 - **Descrição:** Os pacientes podem acompanhar a fila de atendimento para saber quando serão atendidos.
 - **Requisitos Funcionais:**
   - O sistema deve exibir a posição atual na fila em tempo real.
 
-### 5. Gerenciamento de Horários pelo Médico
+### 4. Gerenciamento de Horários pelo Médico
 - **Descrição:** Os médicos podem gerenciar seus horários de consulta para organizar melhor sua agenda.
 - **Requisitos Funcionais:**
   - Permitir bloqueio de horários indisponíveis.
 
-### 6. Comunicação Segura
+### 5. Comunicação Segura
 - **Descrição:** Mensagens criptografadas de ponta a ponta garantem a segurança da comunicação entre pacientes e médicos.
 - **Requisitos Funcionais:**
   - Notificações de novas mensagens são enviadas.
 
-### 7. Realização de Teleconsultas
+### 6. Realização de Teleconsultas
 - **Descrição:** Pacientes podem realizar consultas por vídeo para evitar deslocamentos.
 - **Requisitos Funcionais:**
   - Suporte a videochamadas com resolução mínima de HD (720p).
 
-### 8. Notificações e Lembretes
+### 7. Notificações e Lembretes
 - **Descrição:** Os pacientes recebem lembretes sobre consultas agendadas.
 - **Requisitos Funcionais:**
   - O sistema envia lembretes por SMS e email com 24 horas e 1 hora de antecedência.
 
-### 9. Pagamento de Consultas Online
+### 8. Pagamento de Consultas Online
 - **Descrição:** Os pacientes podem pagar suas consultas online.
 - **Requisitos Funcionais:**
   - Suporte a diversos métodos de pagamento (cartão de crédito, débito, Pix).
 
-### 10. Feedback de Atendimento
+### 9. Feedback de Atendimento
 - **Descrição:** Pacientes podem deixar feedback sobre o atendimento recebido para ajudar na melhoria do serviço.
 - **Requisitos Funcionais:**
   - O sistema deve permitir a adição de notas pelos médicos sobre o atendimento.
 
-### 11. Histórico de Pagamentos
+### 10. Histórico de Pagamentos
 - **Descrição:** Os pacientes podem visualizar seu histórico de pagamentos para controle financeiro.
 - **Requisitos Funcionais:**
   - O sistema deve exibir detalhes sobre datas, valores e métodos de pagamento.
 
-### 12. Gerenciamento de Perfil do Paciente
+### 11. Gerenciamento de Perfil do Paciente
 - **Descrição:** Os pacientes podem editar suas informações pessoais e de contato.
 - **Requisitos Funcionais:**
   - Notificação de atualização de perfil via push notification.
 
-### 13. Exibição de Informações Relevantes
+### 12. Exibição de Informações Relevantes
 - **Descrição:** O sistema exibe notícias e informações relevantes sobre saúde pública e tratamentos.
 - **Requisitos Funcionais:**
   - Notificações de novas informações relevantes são enviadas.
